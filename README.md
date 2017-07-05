@@ -1,4 +1,7 @@
 
+> **NOTE:**
+> This is just a project setup readme the actual details and implementation is in the jupyter notebook file.
+
 ### Overview
 In this project a ConvNet model is trained so that so it can decode traffic signs from natural images by using the [German Traffic Sign Dataset](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset). After the model is trained, then the model is tested on new images of traffic signs found pn the web, or, if you're feeling adventurous pictures of traffic signs you find locally!
 
